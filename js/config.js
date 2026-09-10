@@ -1,4 +1,4 @@
-var documentConfig =
+var respecConfig =
 {
   title: "Wijzigingsprotocol Informatiemodel Externe Veiligheid",
   shortName: "IMEV-wijzigingsprotocol",
@@ -6,20 +6,11 @@ var documentConfig =
   specStatus: "wv",
   specType: "bd",
   license: "cc-by-nd",
-  // latestVersion: [
-  //   "https://docs.geostandaarden.nl/imev/imev-wijzigingsprotocol/"
-  // ],
   publishDate: "2026-08-17",
   publishVersion: "1.2",
-  // thisVersion: [
-  //   "https://docs.geostandaarden.nl/imev/def-bd-imev-wijzigingsprotocol-20260817/"
-  // ],
   previousPublishDate: "2026-03-30",
   previousPublishVersion: "1.1",
   previousMaturity: "def",
-  // prevVersion: [
-  //   "https://docs.geostandaarden.nl/imev/def-bd-imev-wijzigingsprotocol-20260330/"
-  // ],
   github: "https://github.com/Geonovum/imev-wijzigingsprotocol/",
   issueBase: "https://github.com/Geonovum/imev-wijzigingsprotocol/issues/",
   edDraftURI: "https://geonovum.github.io/imev-wijzigingsprotocol/",
