@@ -42,9 +42,9 @@ Dit document wordt bijgewerkt op basis van ontwikkelingen rond het beheer van he
 <td class='left'><p id='17D74623'>Er is een extra scan op taalfouten uitgevoerd, dit heeft geen invloed op de inhoud van het document en daarom is de versienummering niet aangepast.
 </tr>
 <tr><td class='left'><p id='6A555545'>1.2</p></td>
-<td class='left'><p id='66B4F1E8'>17 augustus 2026</p></td>
+<td class='left'><p id='66B4F1E8'>5 oktober 2026</p></td>
 <td class='left'><p id='46AE7A5G'>Definitief</p></td>
-<td class='left'><p id='17D74624'>Figuur toegevoegd aan de samenvatting en het IMEV begrippenkader toegevoegd. Tekstuele aanpassingen. En publicatie in het vernieuwde ReSpec format. 
+<td class='left'><p id='17D74624'>Aan de samenvatting is een figuur toegevoegd. Het begrippenkader is een belangrijk onderdeel van het beheer van het IMEV. Het fungeert als een woordenboek waarin de gebruikte begrippen en hun betekenis zijn vastgelegd. In deze versie is het begrippenkader toegevoegd als een van de producten. Verder zijn er tekstuele correcties uitgevoerd. Deze publicatie is in het vernieuwde ReSpec format. 
 </tr>
 </tbody>
 </table>

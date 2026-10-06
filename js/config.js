@@ -6,8 +6,14 @@ var respecConfig =
   specStatus: "wv",
   specType: "bd",
   license: "cc-by-nd",
-  publishDate: "2026-08-17",
-  publishVersion: "1.2",
+  // latestVersion: [
+  //   "https://docs.geostandaarden.nl/imev/imev-wijzigingsprotocol/"
+  // ],
+  publishDate: "2026-10-05",
+  publishVersion: "1.1.1",
+  // thisVersion: [
+  //   "https://docs.geostandaarden.nl/imev/def-bd-imev-wijzigingsprotocol-20261005/"
+  // ],
   previousPublishDate: "2026-03-30",
   previousPublishVersion: "1.1",
   previousMaturity: "def",
@@ -24,7 +30,7 @@ var respecConfig =
   ],
   editors: [
     {
-      name: "Monique van Scherpenzeel",
+      name: "Jan Cas Smit",
       company: "Geonovum",
       companyURL: "https://www.geonovum.nl/geo-standaarden/informatiemodel-externe-veiligheid-imev/"
     }
