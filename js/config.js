@@ -9,10 +9,10 @@ var documentConfig =
   latestVersion: [
     "https://docs.geostandaarden.nl/imev/imev-wijzigingsprotocol/"
   ],
-  publishDate: "2026-08-17",
-  publishVersion: "1.2",
+  publishDate: "2026-10-05",
+  publishVersion: "1.1.1",
   thisVersion: [
-    "https://docs.geostandaarden.nl/imev/def-bd-imev-wijzigingsprotocol-20260817/"
+    "https://docs.geostandaarden.nl/imev/def-bd-imev-wijzigingsprotocol-20261005/"
   ],
   previousPublishDate: "2026-03-30",
   previousPublishVersion: "1.1",
@@ -22,7 +22,7 @@ var documentConfig =
   previousMaturity: "def",
   github: "https://github.com/Geonovum/imev-wijzigingsprotocol/",
   issueBase: "https://github.com/Geonovum/imev-wijzigingsprotocol/issues/",
-  edDraftURI: "https://geonovum.github.io/imev-wijzigingsprotocol//",
+  edDraftURI: "https://geonovum.github.io/imev-wijzigingsprotocol/",
   canonicalURI: "docs.geostandaarden.nl/imev/imev-wijzigingsprotocol/",
   authors: [
     {
@@ -33,7 +33,7 @@ var documentConfig =
   ],
   editors: [
     {
-      name: "Monique van Scherpenzeel",
+      name: "Jan Cas Smit",
       company: "Geonovum",
       companyURL: "https://www.geonovum.nl/geo-standaarden/informatiemodel-externe-veiligheid-imev/"
     }
