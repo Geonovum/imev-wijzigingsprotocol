@@ -3,7 +3,7 @@ var respecConfig =
   title: "Wijzigingsprotocol Informatiemodel Externe Veiligheid",
   shortName: "IMEV-wijzigingsprotocol",
   pubDomain: "imev",
-  specStatus: "wv",
+  specStatus: "def",
   specType: "bd",
   license: "cc-by-nd",
   // latestVersion: [
