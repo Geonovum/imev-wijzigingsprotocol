@@ -9,10 +9,10 @@ var respecConfig =
   // latestVersion: [
   //   "https://docs.geostandaarden.nl/imev/imev-wijzigingsprotocol/"
   // ],
-  publishDate: "2026-10-05",
+  publishDate: "2026-10-13",
   publishVersion: "1.1.1",
   // thisVersion: [
-  //   "https://docs.geostandaarden.nl/imev/def-bd-imev-wijzigingsprotocol-20261005/"
+  //   "https://docs.geostandaarden.nl/imev/def-bd-imev-wijzigingsprotocol-20261013/"
   // ],
   previousPublishDate: "2026-03-30",
   previousPublishVersion: "1.1",
